@@ -1,2 +1,2 @@
 # hello-world
-created this during to gihub beginners tutorial
+created this during the gihub beginners tutorial
